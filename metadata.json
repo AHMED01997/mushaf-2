@@ -1,0 +1,6 @@
+{
+  "name": "تطبيق تحفيظ ومصحف ومتشابهات القرآن الكريم",
+  "description": "تطبيق قرآني متكامل لاختبار وضبط متشابهات القرآن الكريم، تصفح وتظليل آيات وكلمات المصحف للحفظ، وبحث قرآني فائق الدقة بدون إنترنت.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
